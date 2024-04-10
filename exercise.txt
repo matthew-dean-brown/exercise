@@ -2,3 +2,5 @@ some text
 
 I Like food
 I also like food
+
+I also like chocolates
